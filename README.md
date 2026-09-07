@@ -15,4 +15,4 @@ new
 iac scan
 iac scan 2 3 test
 test
-test new
+test new 3
