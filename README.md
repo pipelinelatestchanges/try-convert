@@ -16,3 +16,4 @@ iac scan
 iac scan 2 3 test
 test
 test new 3
+test new 2
