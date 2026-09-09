@@ -24,3 +24,4 @@ test 1234
 test new 123
 new test story 3
 story 2
+story without space
