@@ -13,7 +13,7 @@ https://docs.veracode.com/r/GitHub_Workflow_Integration_for_Repo_Scanning
 NEW 4
 new 
 iac scan
-iac scan 2 3 test 
+iac scan 2 3 test  
 test
 test new 3
 test new 2
