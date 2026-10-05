@@ -26,3 +26,4 @@ new test story 3
 story 2
 story without space 2 
 story with space newone n
+for sca 
